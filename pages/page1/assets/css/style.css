@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 20px;
     margin: 0;
-    background-image: url("assets/img/bgg.gif");
+    background-image: url('/assets/img/bgg.gif');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
